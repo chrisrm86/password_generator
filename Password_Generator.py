@@ -3,10 +3,10 @@
 """
 ##########################################################
 
-Name: 		Password generator
+Name:       Password generator
 Created by: Christian Morán
-e-mail: 	christianrmoran86@gmail.com
-More code: 	http://github.com/chrisrm86
+e-mail:     christianrmoran86@gmail.com
+More code:  http://github.com/chrisrm86
 
 ##########################################################
 """
